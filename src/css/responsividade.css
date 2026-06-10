@@ -21,8 +21,16 @@
         padding: 22px;
     }
 
+    .memory img {
+        height: 500px;
+    }
+
+    .imagem-memory {
+        height: 500px;
+    }
+
     .memory .img-top {
-        object-position: 10% 14%;
+        object-position: 10% 20%;
     }
 
     .memory .img-right {
