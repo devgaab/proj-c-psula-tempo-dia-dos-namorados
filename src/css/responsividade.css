@@ -20,4 +20,16 @@
         overflow-y: visible;
         padding: 22px;
     }
+
+    .memory .img-top {
+        object-position: 10% 14%;
+    }
+
+    .memory .img-right {
+        object-position: 60% 0;
+    }
+
+    .memory .img-left {
+        object-position: 32% 45%;
+    }
 }

@@ -36,7 +36,7 @@ body {
 
 /* Conteúdo da página */
 nav {
-    padding: 64px;
+    padding: 64px 70px;
     grid-area: timeline;
 
     overflow-y: scroll;
@@ -68,6 +68,8 @@ nav {
 
     transition: transform 0.3s ease-in-out;
 }
+
+
 
 .imagem-memory {
     width: 100%;
