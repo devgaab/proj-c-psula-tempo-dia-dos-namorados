@@ -20,9 +20,17 @@
         background-position: center;
     }
 
+    aside span {
+        font-size: 0.85rem;
+    }
+
     nav {
         overflow-y: visible;
         padding: 22px;
+    }
+
+    .memory small {
+        font-size: 0.85rem;
     }
 
     .memory img {
