@@ -52,4 +52,14 @@
     .memory .img-left {
         object-position: 32% 45%;
     }
+
+    .galeria {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(210px, 1fr));
+    }
+
+    .galeria img {
+        height: 210px;
+        object-position: center;
+    }
 }
