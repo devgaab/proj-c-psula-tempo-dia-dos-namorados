@@ -62,4 +62,12 @@
         height: 210px;
         object-position: center;
     }
+
+    .footer {
+        font-size: 1.2rem;
+    }
+
+    .footer h2 span {
+        font-size: 1.6rem;
+    }
 }
